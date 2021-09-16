@@ -3,7 +3,7 @@ import streamlit.components.v1 as stc
 # EDA Pkgs
 import pandas as pd 
 import numpy as np
-
+import pickle
 import altair as alt
 # Utils
 import joblib
