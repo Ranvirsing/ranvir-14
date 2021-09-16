@@ -12,4 +12,4 @@ You can then check that internship opportunity by clicking lik for that perticul
 The data collection is done by web scraping.
 ## 2. Data Preparation and Feature Engineering
 ## 3. Model building and Evaluation
-## 4. Model deployment on herocu platform
+## 4. Model deployment on heroku platform
