@@ -7,7 +7,8 @@ import pickle
 import altair as alt
 # Utils
 import joblib
-df=pd.read_csv('joburl.csv',encoding='cp1252')
+url='https://github.com/Ranvirsing/ranvir-14/blob/master/joburl.csv'
+df=pd.read_csv(url,encoding='cp1252')
 pipe_lr = joblib.load(open("model.pkl","rb"))
 
 
